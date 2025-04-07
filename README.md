@@ -1,0 +1,1 @@
+The main body of the tutorial notebook comes from [Filippo's tutorial notebook](https://github.com/filrad/Percolation-on-complex-networks). I am planning to update this repo including other advanced message passing methods in percolation studies on complex networks.
